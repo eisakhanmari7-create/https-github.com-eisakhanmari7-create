@@ -1,0 +1,6 @@
+{
+  "name": "TTS Studio & Script Generator",
+  "description": "AI-powered script generator and Text-to-Speech studio supporting Urdu, Hindi, and English accents with voice options, instant audio preview, and download.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

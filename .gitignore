@@ -1,0 +1,15 @@
+node_modules/
+build/
+dist/
+coverage/
+.DS_Store
+*.log
+.env*
+!.env.example
+social_queue_store.json
+connectors_store.json
+.connectors_backup.json
+.social_settings_backup.json
+*.json.backup
+/data/
+
